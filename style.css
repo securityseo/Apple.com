@@ -1,0 +1,108 @@
+.iphone-14{
+    background-color: black;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.name{
+    color: white;
+}
+.pro{
+    color: white;
+}
+.background{
+    background-color: #fafafa;
+}
+.Watch{
+    background-color: rgb(0, 0, 0);
+}
+
+.text{
+    color: white;
+}
+.color{
+    color: red;
+}
+.class{
+    color: white;
+}
+.QWEA{
+    color: orangered;
+}
+.ASDFA{
+    color: red;
+
+}
+.zszszs{
+    background-color: white;
+}
+.asasa{
+    color: black;
+}
+.classs{
+    color:black;
+}
+.qazwsx{
+    background-color: rgb(128, 0, 0);
+}
+.word{
+    color: white;
+}
+.world{
+color: white;
+}
+.bbbbb{
+    color: white;
+}
+.ggggg{
+    background: gray;
+    display: fixed;
+    top: 0;
+    left: 0;
+}
+.errrrrrrr{
+    background-color: rgb(66, 66, 66);
+}
+.QWEAr{
+    color: black;
+
+}
+.imgcon {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.zszszs {
+    width: 50%;
+    justify-self: center;
+    align-self: center;
+}
+.imgcon1{
+    width:100% ;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.zszszsz{
+    width: 50% ;
+    justify-self:center;
+    align-self: center;
+
+
+}
+.zszszsz{
+    background-color: black;
+}
+.asasaa{
+    color: white;
+}
+.QWEArty{
+    color: white;
+}
+.zszszszs {
+    width: 50%;
+}
